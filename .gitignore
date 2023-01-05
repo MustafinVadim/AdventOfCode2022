@@ -4,3 +4,4 @@ TypeScript/tsconfig.json
 TypeScript/node_modules/
 TypeScript/package-lock.json
 TypeScript/package.json
+TypeScript/lib/input.ts

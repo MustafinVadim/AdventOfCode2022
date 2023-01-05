@@ -19,6 +19,8 @@ export class V {
                 return new V(this.x + 1, this.y);
         }
     }
+
+    public toString = () => `{${this.x}; ${this.y}}`;
 }
 
 export enum Direction {
